@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smd-arch-local-applications
+Credit: https://github.com/arcolinux
